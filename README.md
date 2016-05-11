@@ -1,4 +1,4 @@
-# Find-DDOS-Downloads-
+# Network-Traffic-Analyzer
 Finding the list of users(IPs) downloading the content from blacklisted website.
 My Scipts will find the src and destination IP addresses and their physical locations can be mapped on the Google Maps through a KML file that is generated.
 
